@@ -68,7 +68,7 @@
 /* 0 */
 /***/ function(module, exports) {
 
-throw new Error("Module parse failed: /Users/nandinipaarshar9/blog-webapp/client/src/index.js Unexpected token (8:2)\nYou may need an appropriate loader to handle this file type.\n| const root = ReactDOM.createRoot(document.getElementById(\"root\"));\n| root.render(\n|   <React.StrictMode>\n|     <AuthContexProvider>\n|       <App />");
+throw new Error("Module parse failed: /Users/nandinipaarshar9/blog-webapp/client/src/app.js Unexpected token (18:4)\nYou may need an appropriate loader to handle this file type.\n| const Layout = () => {\n|   return (\n|     <>\n|       <Navbar />\n|       <Outlet />");
 
 /***/ }
 /******/ ]);
